@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+}
+
+header{
+    text-align: center;
+    background-color:rgb(207, 207, 207);
+    padding-top: 10px;
+}
+
+nav{
+    padding-bottom: 15px;
+}
+
+nav > span{
+    border-style: solid;
+    border-width: 1px;
+    padding: 2px;
+
+}
+
+.login-section, .create-account-section{
+    text-align: center;
+}
+
+input{
+    margin-bottom: 10px;
+}
